@@ -10,9 +10,9 @@ public class EnhancedForLoop {
         // }
 
         // for 2D array or basically jagged array .
-        int[][] nums = { { 1, 2, 3 }, // means iss array ka element ye pura array i.e., { 1, 2, 3 } na ki 1 .
-                { 4, 5 }, // means iss array ka element ye pura array i.e., {4,5} na ki 4 .
-                { 4, 5, 6 } // means iss array ka element ye pura array i.e.,{4,5,6} na ki 4 .
+        int[][] nums = { { 1, 2, 3 }, // means iss array ka element ye pura array hai i.e., { 1, 2, 3 } na ki 1 .
+                { 4, 5 }, // means iss array ka element ye pura array hai i.e., {4,5} na ki 4 .
+                { 4, 5, 6 } // means iss array ka element ye pura array hai i.e.,{4,5,6} na ki 4 .
         };
 
         for (int a[] : nums) {
